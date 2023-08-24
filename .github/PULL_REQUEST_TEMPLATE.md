@@ -1,9 +1,11 @@
 ## 課題のリンク
-- https://github.com/mimimi-zomy/hc_practice
+
+* https://example.com
 
 ## やったこと
-- 「pr_template」ブランチを作成し、そこで「.github」ディレクトリを作成
-- 「.github」ディレクトリの中に「PULL_REQUEST_TEMPLATE.md」ファイルを作成し、現在の内容を記入した
+
+* このプルリクで何をしたのか？
+
 
 ## 動作確認方法
 
