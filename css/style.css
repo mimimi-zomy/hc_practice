@@ -41,8 +41,7 @@ li {
   margin-left: 30px;
 }
 .header ul li a {
-  color: #1f2328
-  ;
+  color: #1f2328;
 }
 
 .h1_title {
@@ -140,10 +139,6 @@ li {
   p {
     font-size: 17px;
     line-height: 1.5em;
-  }
-
-  .TopPhoto img {
-    height: calc(100vh - 60px);
   }
 
   .introduction {
